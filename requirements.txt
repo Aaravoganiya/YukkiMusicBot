@@ -23,4 +23,3 @@ wget
 youtube-search
 youtube-search-python
 yt-dlp
-node==1.2.1
